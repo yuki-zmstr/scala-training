@@ -1,0 +1,37 @@
+~testQuick
+sbt run
+run
+~run
+~ run
+compile
+run
+ ~testQuick
+~run
+~ compile
+last
+~ run
+-version
+version
+exit
+run
+~ run
+exit
+test
+exit
+run
+~ run
+exit
+run
+~ run
+sbt ~ run
+~ run
+exit
+run
+~run
+-version
+version
+~run
+~sbt run
+exit
+~run
+exit

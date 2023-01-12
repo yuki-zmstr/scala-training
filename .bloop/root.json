@@ -1,0 +1,129 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "root",
+        "directory": "/Users/yukihidetakahashi/Desktop/scala-training",
+        "workspaceDir": "/Users/yukihidetakahashi/Desktop/scala-training",
+        "sources": [
+            "/Users/yukihidetakahashi/Desktop/scala-training/src/main/scala-2.12",
+            "/Users/yukihidetakahashi/Desktop/scala-training/src/main/scala",
+            "/Users/yukihidetakahashi/Desktop/scala-training/src/main/java",
+            "/Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/src_managed/main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar"
+        ],
+        "out": "/Users/yukihidetakahashi/Desktop/scala-training/.bloop/root",
+        "classesDir": "/Users/yukihidetakahashi/Desktop/scala-training/.bloop/root/scala-2.12/classes",
+        "resources": [
+            "/Users/yukihidetakahashi/Desktop/scala-training/src/main/resources",
+            "/Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/resource_managed/main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.8",
+            "options": [
+                
+            ],
+            "jars": [
+                "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.8.jar",
+                "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar",
+                "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar",
+                "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar",
+                "/Users/yukihidetakahashi/.ivy2/cache/jline/jline/jars/jline-2.14.6.jar"
+            ],
+            "analysis": "/Users/yukihidetakahashi/Desktop/scala-training/target/streams/compile/bloopAnalysisOut/$global/streams/inc_compile_2.12.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home",
+                "options": [
+                    "-Duser.dir=/Users/yukihidetakahashi/Desktop/scala-training"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.8",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}
