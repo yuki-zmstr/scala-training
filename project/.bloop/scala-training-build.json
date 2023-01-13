@@ -188,7 +188,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home",
+                "home": "/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre",
                 "options": [
                     "-Duser.dir=/Users/yukihidetakahashi/Desktop/scala-training/project"
                 ]

@@ -1,1 +1,28 @@
-[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar: class java.lang.String now provided by /Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/rt.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Greeting.class, /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello$.class, /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello$delayedInit$body.class, /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/yukihidetakahashi/Desktop/scala-training/src/main/scala/example/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(/Users/yukihidetakahashi/Desktop/scala-training/src/main/scala/example/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 42b7d418 for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/resources.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/rt.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/sunrsasign.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/jsse.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/jce.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/charsets.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/lib/jfr.jar:/Users/yukihidetakahashi/.sdkman/candidates/java/8.0.352-amzn/jre/classes:/Users/yukihidetakahashi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.411624333 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
