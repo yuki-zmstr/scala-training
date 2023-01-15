@@ -4,7 +4,7 @@
 		module="scala-training-build$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20230112135927"
+		publication="20230113135515"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	/>
 	<configurations>

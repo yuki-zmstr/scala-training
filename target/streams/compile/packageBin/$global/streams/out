@@ -1,13 +1,33 @@
 [0m[[0m[0minfo[0m] [0m[0mPackaging /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/scala-training_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/SeqSample$$anonfun$seqQ6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/SeqSample$$anonfun$seqQ6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/Hello$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/Hello.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/SeqSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/SeqSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/SeqSample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/SeqSample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/MapSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/MapSample$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/Hello$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/MapSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/MapSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/OptionSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/OptionSample.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/Greeting.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/example/Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/SeqSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/SeqSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	yukihide/takahashi/OptionSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/yukihidetakahashi/Desktop/scala-training/target/scala-2.12/classes/yukihide/takahashi/OptionSample$.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

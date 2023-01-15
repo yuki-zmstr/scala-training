@@ -5,7 +5,7 @@ ThisBuild / version          := "0.1.0-SNAPSHOT"
 ThisBuild / organization     := "com.example"
 ThisBuild / organizationName := "example"
 
-Global / serverConnectionType := ConnectionType.Tcp // experimental
+// Global / serverConnectionType := ConnectionType.Tcp // experimental
 
 
 lazy val root = (project in file("."))

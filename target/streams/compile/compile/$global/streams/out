@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/yukihidetakahashi/Desktop/scala-training/src/main/scala/10_Option.scala:19:58: value * is not a member of Option[Int][0m
+[0m[[0m[31merror[0m] [0m[0m        num.flatMap(i => if (i eq None) None else Some(i * 2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
