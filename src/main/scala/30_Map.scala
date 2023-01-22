@@ -36,23 +36,23 @@ object MapSample {
 
     def main(args: Array[String]): Unit = {
         println("~~~~Question1~~~~")
-        println(mapQ1())
+        println(mapQ1()) // 80
 
         println("~~~~Question2~~~~")
-        println(mapQ2())
+        println(mapQ2()) // 0
 
         println("~~~~Question3~~~~")
-        println(mapQ3("ぶどう"))
-        println(mapQ3("いちご"))
+        println(mapQ3("ぶどう")) // true
+        println(mapQ3("いちご")) // false
 
         println("~~~~Question3_4~~~~")
-        println(mapQ3_4(Seq("ぶどう", "いちご")))
+        println(mapQ3_4(Seq("ぶどう", "いちご"))) // true
 
         println("~~~~Question4~~~~")
-        println(mapQ4())
+        println(mapQ4()) // Map(りんご -> 100円, みかん -> 80円, ぶどう -> 300円)
 
         println("~~~~Question5~~~~")
-        println(mapQ5())
+        println(mapQ5()) // Map(0 -> List(2, 4), 1 -> List(1, 3, 5))
 
     }
 }
