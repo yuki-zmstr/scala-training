@@ -38,7 +38,10 @@ object SeqSample {
     }
 
     def seqQ9(numSeq: Seq[Int]): Seq[Int] = {
-        numSeq.init.tail
+        numSeq match {
+            case n1 +: n2 +: t => numSeq.init.tail
+            case _ => Seq()
+        }
     }
 
     def seqQ10(numSeq: Seq[Int]): Int = {
@@ -70,7 +73,7 @@ object SeqSample {
 
     def main(args: Array[String]): Unit = {
         println("~~~~Question1~~~~")
-        println(seqQ1(Seq(1,2,3))) // List(1, 2, 0)
+        println(seqQ1(Seq(0,1,2,3))) // List(0,1, 2, 0)
 
         println("~~~~Question2~~~~")
         println(seqQ2(Seq(1,2,3))) // List(3)
@@ -80,7 +83,7 @@ object SeqSample {
 
         println("~~~~Question4~~~~")
         println(seqQ4(Seq(1,2,3,4,5,6))) // 2
-        println(seqQ4(Seq(1,3,5))) // -11
+        println(seqQ4(Seq(1,3,5))) // -1
 
         println("~~~~Question5~~~~")
         println(seqQ5(Seq(Some(12), Some(102)))) // Some(102)
@@ -102,6 +105,9 @@ object SeqSample {
         println("~~~~Question9~~~~")
         println(seqQ9(Seq(1,2,3))) // List(2)
         println(seqQ9(Seq(1,2))) // List()
+        println(seqQ9(Seq(1))) // List()
+        println(seqQ9(Seq())) // List()
+
 
         println("~~~~Question10~~~~")
         println(seqQ10(Seq(1,2,3))) // 4
@@ -119,7 +125,7 @@ object SeqSample {
 
         println("~~~~Question13~~~~")
         println(product_with_error_handling(Seq(1,2,3,4,5,6))) // 720
-        // println(product_with_error_handling(Seq()))
+        // println(product_with_error_handling(Seq())) // exception
 
         println("~~~~Question14 and 15~~~~")
         seqQ14and15() // 12, 4
