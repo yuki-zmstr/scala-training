@@ -27,12 +27,17 @@ object MapSample {
 
     val numbers = Seq(1,2,3,4,5)
 
+    // def mapQ5(): Map[Int, Seq[Int]] = {
+    //     Map(
+    //         0 -> numbers.filter(i => i % 2 == 0),
+    //         1 -> numbers.filter(i => i % 2 == 1)
+    //     )
+    // }
     def mapQ5(): Map[Int, Seq[Int]] = {
-        Map(
-            0 -> numbers.filter(i => i % 2 == 0),
-            1 -> numbers.filter(i => i % 2 == 1)
-        )
+        // groupBy returns a map of key value pair
+        numbers.groupBy(i => i % 2)
     }
+
 
     def main(args: Array[String]): Unit = {
         println("~~~~Question1~~~~")
